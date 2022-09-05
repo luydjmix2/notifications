@@ -1,0 +1,18 @@
+{
+    "name": "luydjmix2/notification",
+    "description": "service the alerts in laravel, mensages\u001b[D\u001b[D\u001b[D\u001b[Ds\u001b[C\u001b[D\u001b[3~\u001b[3~\u001b[3~\u001b[3~ages and push sms and emails.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Luydjmix2\\Notification\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Suarez",
+            "email": "luydjmix@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
